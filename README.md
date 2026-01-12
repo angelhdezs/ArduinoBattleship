@@ -1,3 +1,3 @@
 # ArduinoBattleship
-A boardgame made in Arduino
 ## School project
+A boardgame made in Arduino
